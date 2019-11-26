@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"eje",
+				"ejercicio3"
+			],
+			[
+				"ejer",
+				"ejercicio2"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"t_",
+				"t_inic"
+			],
+			[
+				"adi",
+				"adivinar_numero"
+			],
+			[
+				"c",
+				"combate"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"co",
+				"comprobar_ventaja"
+			],
+			[
+				"genera",
+				"genera_enemigo"
+			],
+			[
+				"ha",
+				"hashlib"
+			],
+			[
+				"im",
+				"imprimir_estadisticas"
+			],
+			[
+				"po",
+				"pos_y"
+			],
+			[
+				"pos",
+				"pos_x"
+			],
+			[
+				"vel",
+				"vel_y"
+			],
+			[
+				"set",
+				"setText"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"al",
+				"alquilar"
+			],
+			[
+				"opc",
+				"opcion"
+			],
+			[
+				"op",
+				"opcion"
+			],
+			[
+				"inte",
+				"intento"
+			],
+			[
+				"cad",
+				"cad_cifrada"
+			],
+			[
+				"nu",
+				"num_carac_num"
+			],
+			[
+				"num",
+				"num_carac_num"
+			],
+			[
+				"P",
+				"Pelicula"
+			],
+			[
+				"cate",
+				"categorias"
+			],
+			[
+				"volc",
+				"vocales"
+			],
+			[
+				"Ni",
+				"ninios"
+			],
+			[
+				"sem",
+				"semPuertaCerrada"
+			],
+			[
+				"semP",
+				"semPuertaAbierta"
+			],
+			[
+				"piso",
+				"pisoInicial"
+			],
+			[
+				"In",
+				"Integer"
+			],
+			[
+				"gall",
+				"galletas"
+			],
+			[
+				"Inte",
+				"InterruptedException"
+			],
+			[
+				"Ma",
+				"Madre"
+			],
+			[
+				"palo2C",
+				"palo2CopySort"
+			],
+			[
+				"palo",
+				"palo2"
+			],
+			[
+				"pal",
+				"palo2"
+			],
+			[
+				"print",
+				"printGame"
+			],
+			[
+				"get",
+				"getNombre"
+			],
+			[
+				"tiempo",
+				"Tiempo"
+			],
+			[
+				"add",
+				"addActionListener"
+			],
+			[
+				"bt",
+				"btNumeros"
+			],
+			[
+				"equ",
+				"equipoTecnico"
+			],
+			[
+				"je",
+				"jefes"
+			],
+			[
+				"eq",
+				"equipoTecnico"
+			],
+			[
+				"equi",
+				"equipo1"
+			],
+			[
+				"entre",
+				"entrenador"
+			],
+			[
+				"Eq",
+				"EquipoTecnico"
+			],
+			[
+				"ju",
+				"jugadores"
+			],
+			[
+				"Ju",
+				"Jugador"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"g",
+				"getBestMove"
+			],
+			[
+				"txt",
+				"txtDolares"
+			],
+			[
+				"pri",
+				"printGame"
+			],
+			[
+				"game",
+				"gameCopy"
+			],
+			[
+				"wi",
+				"winner"
+			],
+			[
+				"gam",
+				"gameCopy"
+			],
+			[
+				"en",
+				"entrada"
+			],
+			[
+				"lista",
+				"lista2"
+			],
+			[
+				"lis",
+				"lista2"
+			],
+			[
+				"l",
+				"lista1"
+			],
+			[
+				"boto",
+				"botonLimpiar"
+			],
+			[
+				"lsC",
+				"lsCrear"
+			],
+			[
+				"final",
+				"finally"
+			],
+			[
+				"sys",
+				"syso\tsyso"
+			],
+			[
+				"fruta",
+				"Fruta_fresca"
+			],
+			[
+				"fr",
+				"fruta_sin_espacios"
+			],
+			[
+				"Bicicle",
+				"Bicicleta"
+			],
+			[
+				"Biciclet",
+				"BicicletaTandem"
+			],
+			[
+				"nuev",
+				"nuevaSuspension"
+			],
+			[
+				"Bici",
+				"BicicletaMontana"
+			],
+			[
+				"nue",
+				"nuevoPinion"
+			],
+			[
+				"nuevo",
+				"nuevoPlato"
+			],
+			[
+				"velo",
+				"nuevaVelocidad"
+			],
+			[
+				"ve",
+				"velocidadActual"
+			],
+			[
+				"veloci",
+				"Velocidad"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaRun.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/JavaRun.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/PythonCMD.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/PythonCMD.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git i",
+				"Git: Init"
+			],
+			[
+				"package co inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 584.0,
+		"history":
+		[
+			"dict(3:2)",
+			"1",
+			"i = [1, ",
+			"x",
+			"x = []",
+			"x",
+			"x = [1, 2]",
+			"x = [1, 2",
+			"a",
+			"a=1",
+			"exit()",
+			"print(3)",
+			"a"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Z/Curso 2 DAM/Lenguajes/Python",
+		"/Z/Curso 2 DAM/Lenguajes/Python/test"
+	],
+	"file_history":
+	[
+		"/Z/Curso 2 DAM/Lenguajes/Python/test/Test3",
+		"/C/Users/AlumnoT/Desktop/a.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/examen.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/lambda.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/poema.txt",
+		"/Z/Curso 2 DAM/Lenguajes/Python/torre.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/PocketMonsters.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/kivy/test.py",
+		"/C/Users/Luismi/Desktop/Python/Pygame/paint.py",
+		"/C/Users/Luismi/Desktop/Python/Pygame/gametest.py",
+		"/C/Users/Luismi/Desktop/Python/Pygame/prueba.py",
+		"/C/Users/Luismi/Desktop/Python/tweetBot.py",
+		"/C/Users/Luismi/Desktop/Python/mySQL/twitResults.py",
+		"/Z/backup/backup.py",
+		"/Z/backup/hooks/hook-win10toast.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/size.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.txt",
+		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/pyinstaller/build/a.txt",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/pyinstaller/build/a",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejFicheros.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ficheros.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/pyinstaller/hook-win10toast.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/pyinstaller/hook.py",
+		"/C/Users/AlumnoT/AppData/Local/Programs/Python/Python37/Lib/site-packages/win10toast/__init__.py",
+		"/C/Users/AlumnoT/AppData/Local/Programs/Python/Python37/Lib/site-packages/win10toast/__main__.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/pyinstaller/test.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/py2exe/setup.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/test.txt",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/python/python/ej4.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/python/python/ej3.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/python/python/ej2.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/python/python/ej1.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/Luismi.zip",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/entregar/ej1.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/test.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/kivy/pong.kv",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/kivy/pong.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/kivy/test.kv",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/kivy/test.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/kivy/OpenGLfix.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/test.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/actividad5.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/test.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/EventosTresBotones.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/Eventos3.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/Eventos2.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/Eventos1.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/cerrarVentana.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/layouts/PruebaBorderLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/calcMolona.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/ejemploBorderLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/ActividadesDI/Actividad4_DI.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ej4.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ej3.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ej2.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ej1.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/vigenere.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/TicTacToe-medium.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/TicTacToeV2.0.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/funciones2.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/funciones.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/test.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/pkg/ascensores.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/pkg/tarroGalletas.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/pkg/coches.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/pkg/Aeropuerto.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/pkg/Atraccion.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/datos.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/operaciones.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/torre.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/TicTacToe.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/cp5_2.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/bicis/cp5_1.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/bicis/Bicicleta.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/bicis/BicicletaMontana.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/bicis/BicicletaTandem.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/ejemplos/Entrenador.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/Coche.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/test/test.txt",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/ejLayouts.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/Calculadora.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/layouts/PruebaBoxLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/ejemploBoxLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/layouts/PruebaFlowLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/layouts/PruebaGridLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/ejemploFlowLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/DIEjemplosLayouts/src/es/centroafuera/di/layouts/gridLayout/PruebaGridLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/DIEjemplosLayouts/src/es/centroafuera/di/layouts/flowlayout/PruebaFlowLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/DIEjemplosLayouts/src/es/centroafuera/di/layouts/boxLayout/PruebaBoxLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/DIEjemplosLayouts/src/es/centroafuera/di/layouts/borderLayout/PruebaBorderLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/miniCalculadora.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/Atraccion.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/Aeropuerto.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/EventosParte3.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/semaforo.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/EjsTema1/Ej8.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/EjsTema1/Ej10.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/HelloWorld.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/aVerSiSeHacerlo.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/aVerSiSeHacerlo2.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/aVerSiSeHacerlo3.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/AccesoDatos/src/pkg/colecciones.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejercicios/ej11.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejercicios/ej10.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejercicios/ej1.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/TicTacToe.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/Pygame/TicTacToe.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/ventanaTitulo.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/ProcesoFicheros.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/procesos.java",
+		"/C/Users/AlumnoT/Desktop/Clase/sublime3/Sublime Text Build 3211 x64/Data/Packages/User/killer.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/MiniEncuesta.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/tortuga.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/JLayouts/ejBoxLayout.java",
+		"/C/Users/AlumnoT/Desktop/Clase/sublime3/Sublime Text Build 3211 x64/Data/Packages/User/pc.sublime-snippet",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/Diseño Interfaces/src/Swing/test.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/test.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/procesos.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/ProcesoFicheros.java",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/compresion2.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/compresion.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/comprension4.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/comprension3.py",
+		"/C/Users/AlumnoT/Desktop/Clase/Programacion Servicios/JM - Tema 1-D.pdf",
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/Luis Miguel Gonzalez.zip",
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/cp5_1.java"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"impri",
+			"player2",
+			"player1",
+			"offset",
+			"bounce_pelota",
+			"pos",
+			"move",
+			"ball"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 41.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 386.0
+	},
+	"output.git-init":
+	{
+		"height": 125.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 365.0
+	},
+	"pinned_build_system": "",
+	"project": "python.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Z:\\Curso 2 DAM\\Lenguajes\\Python\\python.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,34 @@
+#Crear un archivo e introducir palabras hasta que el usuario quiera, después cerrar archivo
+#Después, abrir archivo, introducir palabra en la mitad exacta, cerrar archivo
+#Abrir archivo y utilizar una función lambda para concatenar todas las palabras en una frase
+
+def crearArchivo:
+	fic = open("archivo.txt", "w")
+
+	palabra = input("Usuario, mete una palabra: ")
+
+	while(palabra == "X")
+		fic.write(palabra)
+		palbra = input("Usuario, mete una palabra [X para salir]: ")
+
+	ficclose()
+
+def abrirArchivo():
+	fic = open("archivo.txt", "wr)
+
+		lineas = fic.readLines()
+		mitad = len(lineas)//f
+	fic.seek(mitad)
+	fic.write(MITAD)
+
+	fic.close
+
+def funcionLambda():
+fic = open("archivo.txt", "r")
+
+
+
+#Main
+crearArchivo()
+abrirArchvo()
+funcionLambda():
