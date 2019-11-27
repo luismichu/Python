@@ -4,12 +4,8 @@
 		"selected_items":
 		[
 			[
-				"eje",
-				"ejercicio3"
-			],
-			[
-				"ejer",
-				"ejercicio2"
+				"dis",
+				"disp"
 			],
 			[
 				"n",
@@ -311,6 +307,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "Pygame/CountDown.py",
+			"settings":
+			{
+				"buffer_size": 449,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -413,18 +418,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Z/Curso 2 DAM/Lenguajes/Python",
-		"/Z/Curso 2 DAM/Lenguajes/Python/test"
+		"/Z/Curso 2 DAM/Lenguajes/Python"
 	],
 	"file_history":
 	[
-		"/Z/Curso 2 DAM/Lenguajes/Python/test/Test3",
-		"/C/Users/AlumnoT/Desktop/a.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/examen.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/lambda.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/poema.txt",
 		"/Z/Curso 2 DAM/Lenguajes/Python/torre.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/PocketMonsters.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/kivy/test.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/paint.py",
@@ -545,7 +544,12 @@
 		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/comprension3.py",
 		"/C/Users/AlumnoT/Desktop/Clase/Programacion Servicios/JM - Tema 1-D.pdf",
 		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/Luis Miguel Gonzalez.zip",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/cp5_1.java"
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/cp5_1.java",
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/BicicletaTandem.java",
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/BicicletaMontana.java",
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/Bicicleta.java",
+		"/C/Users/AlumnoT/Desktop/Java/Diseño Interfaces/src/ActividadesDI/AC2.java",
+		"/C/Users/AlumnoT/Desktop/Clase/SGE/Python/ejercicios/ej2.py"
 	],
 	"find":
 	{
@@ -588,8 +592,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "Pygame/CountDown.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
