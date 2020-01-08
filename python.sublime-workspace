@@ -4,14 +4,6 @@
 		"selected_items":
 		[
 			[
-				"dis",
-				"disp"
-			],
-			[
-				"n",
-				"nombre"
-			],
-			[
 				"t_",
 				"t_inic"
 			],
@@ -280,6 +272,10 @@
 				"nuevaSuspension"
 			],
 			[
+				"n",
+				"nuevaSuspension"
+			],
+			[
 				"Bici",
 				"BicicletaMontana"
 			],
@@ -308,10 +304,28 @@
 	"buffers":
 	[
 		{
-			"file": "Pygame/CountDown.py",
+			"file": "torre.py",
 			"settings":
 			{
-				"buffer_size": 449,
+				"buffer_size": 897,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "torre2.0.py",
+			"settings":
+			{
+				"buffer_size": 162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 124,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -418,21 +432,22 @@
 	},
 	"expanded_folders":
 	[
-		"/Z/Curso 2 DAM/Lenguajes/Python"
+		"/Z/Curso 2 DAM/Lenguajes/Python",
+		"/Z/Curso 2 DAM/Lenguajes/Python/kivy",
+		"/Z/Curso 2 DAM/Lenguajes/Python/Pygame"
 	],
 	"file_history":
 	[
-		"/Z/Curso 2 DAM/Lenguajes/Python/torre.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/PocketMonsters.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/kivy/test.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/paint.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/gametest.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/kivy/test.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/PocketMonsters.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/prueba.py",
 		"/C/Users/Luismi/Desktop/Python/tweetBot.py",
 		"/C/Users/Luismi/Desktop/Python/mySQL/twitResults.py",
 		"/Z/backup/backup.py",
 		"/Z/backup/hooks/hook-win10toast.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/size.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.txt",
 		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.py",
@@ -549,7 +564,8 @@
 		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/BicicletaMontana.java",
 		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/Bicicleta.java",
 		"/C/Users/AlumnoT/Desktop/Java/Diseño Interfaces/src/ActividadesDI/AC2.java",
-		"/C/Users/AlumnoT/Desktop/Clase/SGE/Python/ejercicios/ej2.py"
+		"/C/Users/AlumnoT/Desktop/Clase/SGE/Python/ejercicios/ej2.py",
+		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/cp5_1.java"
 	],
 	"find":
 	{
@@ -592,33 +608,89 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Pygame/CountDown.py",
+					"file": "torre.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 449,
+						"buffer_size": 897,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								447,
-								447
+								9,
+								9
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "torre2.0.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 71.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -702,7 +774,7 @@
 		[
 			[
 				"",
-				"Z:\\Curso 2 DAM\\Lenguajes\\Python\\python.sublime-project"
+				"Z:\\Curso 2 DAM\\Lenguajes\\Java\\java.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -724,7 +796,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 194.0,
+	"side_bar_width": 233.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
