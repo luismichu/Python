@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"ti",
+				"tierras"
+			],
+			[
+				"colo",
+				"color_pelo"
+			],
+			[
+				"cumple",
+				"cumple_normativa"
+			],
+			[
+				"emp",
+				"empieza_por_vocal"
+			],
+			[
+				"e",
+				"empieza_por_vocal"
+			],
+			[
+				"alumn",
+				"alumno1"
+			],
+			[
+				"nota",
+				"nota1"
+			],
+			[
+				"as",
+				"asignatura_favorita"
+			],
+			[
+				"write",
+				"writerow"
+			],
+			[
 				"t_",
 				"t_inic"
 			],
@@ -304,19 +340,44 @@
 	"buffers":
 	[
 		{
-			"file": "torre.py",
+			"file": "clases.py",
 			"settings":
 			{
-				"buffer_size": 897,
+				"buffer_size": 1079,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "torre2.0.py",
+			"file": "clases2.py",
 			"settings":
 			{
-				"buffer_size": 162,
+				"buffer_size": 993,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "clases3.py",
+			"settings":
+			{
+				"buffer_size": 306,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vehiculos.py",
+			"settings":
+			{
+				"buffer_size": 1887,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "familia.py",
+			"settings":
+			{
+				"buffer_size": 1662,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -325,7 +386,7 @@
 			"file": "test.py",
 			"settings":
 			{
-				"buffer_size": 124,
+				"buffer_size": 13,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -433,11 +494,24 @@
 	"expanded_folders":
 	[
 		"/Z/Curso 2 DAM/Lenguajes/Python",
-		"/Z/Curso 2 DAM/Lenguajes/Python/kivy",
-		"/Z/Curso 2 DAM/Lenguajes/Python/Pygame"
+		"/Z/Curso 2 DAM/Lenguajes/Python/CSV",
+		"/Z/Curso 2 DAM/Lenguajes/Python/JSON",
+		"/Z/Curso 2 DAM/Lenguajes/Python/Pyautogui"
 	],
 	"file_history":
 	[
+		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/clases3.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/clases2.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/calculadora.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/clases.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/CSV/csvReader.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/CSV/csvWriter.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/CSV/archivo.csv",
+		"/Z/Curso 2 DAM/Lenguajes/Python/JSON/jsonTest.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/JSON/jsonWriter.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/torre.py",
+		"/Z/Curso 2 DAM/Lenguajes/Python/torre2.0.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/paint.py",
 		"/C/Users/Luismi/Desktop/Python/Pygame/gametest.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/kivy/test.py",
@@ -447,7 +521,6 @@
 		"/C/Users/Luismi/Desktop/Python/mySQL/twitResults.py",
 		"/Z/backup/backup.py",
 		"/Z/backup/hooks/hook-win10toast.py",
-		"/Z/Curso 2 DAM/Lenguajes/Python/test.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/size.py",
 		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.txt",
 		"/Z/Curso 2 DAM/Lenguajes/Python/pyinstaller/test.py",
@@ -554,22 +627,11 @@
 		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/procesos.java",
 		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Java/PSP/src/pkg/ProcesoFicheros.java",
 		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/compresion2.py",
-		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/compresion.py",
-		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/comprension4.py",
-		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/comprension3.py",
-		"/C/Users/AlumnoT/Desktop/Clase/Programacion Servicios/JM - Tema 1-D.pdf",
-		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/Luis Miguel Gonzalez.zip",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/cp5_1.java",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/BicicletaTandem.java",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/BicicletaMontana.java",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/bicis/Bicicleta.java",
-		"/C/Users/AlumnoT/Desktop/Java/Diseño Interfaces/src/ActividadesDI/AC2.java",
-		"/C/Users/AlumnoT/Desktop/Clase/SGE/Python/ejercicios/ej2.py",
-		"/C/Users/AlumnoT/Desktop/Java/AccesoDatos/src/pkg/cp5_1.java"
+		"/C/Users/AlumnoT/Desktop/Clase/Lenguajes/Python/ejPractica/compresion.py"
 	],
 	"find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -608,24 +670,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "torre.py",
+					"file": "clases.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 897,
+						"buffer_size": 1079,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								0,
+								0
 							]
 						],
 						"settings":
@@ -637,24 +699,53 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "torre2.0.py",
+					"file": "clases2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 162,
+						"buffer_size": 993,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								54,
-								54
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "clases3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -663,26 +754,82 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vehiculos.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								798,
+								798
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "test.py",
+					"buffer": 4,
+					"file": "familia.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 124,
+						"buffer_size": 1662,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								124,
-								124
+								1306,
+								1307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 870.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
 							]
 						],
 						"settings":
@@ -693,7 +840,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -701,7 +848,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -754,7 +901,7 @@
 	"project": "python.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -795,8 +942,8 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 233.0,
+	"side_bar_visible": false,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -1,0 +1,1 @@
+"{\"Fruteria\":\n [\n  {\"Fruta\":\n   [\n    {\"Nombre\":\"Manzana\",\"Cantidad\":10},\n    {\"Nombre\":\"Pera\",\"Cantidad\":20},\n    {\"Nombre\":\"Naranja\",\"Cantidad\":30}\n   ]\n  },\n  {\"Verdura\":\n   [\n    {\"Nombre\":\"Lechuga\",\"Cantidad\":80},\n    {\"Nombre\":\"Tomate\",\"Cantidad\":15},\n    {\"Nombre\":\"Pepino\",\"Cantidad\":50}\n   ]\n  }\n ]\n}"
